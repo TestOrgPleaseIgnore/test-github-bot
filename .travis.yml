@@ -3,3 +3,5 @@ node_js:
   - "5"
 sudo: false
 script: "npm test"
+notifications:
+  email: false
