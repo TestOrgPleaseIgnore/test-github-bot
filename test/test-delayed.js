@@ -19,4 +19,3 @@ tap.test('a test that takes some time to finish', (t) =>
   .then(t.end)
 )
 .catch(tap.threw)
-
