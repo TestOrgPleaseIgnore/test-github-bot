@@ -2,7 +2,7 @@
 
 module.exports = {
   yes() {
-    return true
+    return null
   },
   no() {
     return false
