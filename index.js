@@ -8,6 +8,6 @@ module.exports = {
     return false
   },
   maybe(thing) {
-    return !thing
+    return !!thing
   }
 }
