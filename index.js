@@ -5,7 +5,7 @@ module.exports = {
     return true
   },
   no() {
-    return false
+    return true
   },
   maybe(thing) {
     return !!thing
